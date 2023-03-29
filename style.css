@@ -12,7 +12,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin: 50px auto;
-  max-width: 400px;
+  max-width: 280px;
   padding: 30px;
   text-align: center;
 }
@@ -65,6 +65,7 @@ input[type="submit"]:hover {
 }
 
 .signup-link {
+  text-align: center;
   margin-bottom: 20px;
 }
 
@@ -100,6 +101,7 @@ input[type="submit"]:hover {
 }
 
 .disclaimer {
+  text-align: center;
   color: #999;
   font-size: 14px;
   margin-top: 20px;
